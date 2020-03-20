@@ -8,10 +8,10 @@ setuptools.setup(
     version="0.0.1",
     author="Example Author",
     author_email="author@example.com",
-    description="A small example package",
+    description="Python module to access Webbscrapers API - https://webbscrapers.live",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/edwudw/webbscrapers_api",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
