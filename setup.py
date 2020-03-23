@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="webbscrapers_api", # Replace with your own username
-    version="0.0.1",
+    version="0.0.2",
     author="Example Author",
     author_email="author@example.com",
     description="Python module to access Webbscrapers API - https://webbscrapers.live",
